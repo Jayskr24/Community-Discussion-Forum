@@ -1,0 +1,14 @@
+# Dependency folders
+node_modules/
+backend/target/
+frontend/dist/
+frontend/.angular/
+
+# Environment files / Secret configs
+.env
+*.properties
+
+# IDE files
+.vscode/
+.idea/
+*.log
